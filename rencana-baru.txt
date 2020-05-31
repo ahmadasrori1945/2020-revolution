@@ -1,5 +1,10 @@
 Rencana Konten Baru
 
 1. Konten pendidikan
+  pendidikan sd
+  pendidikan smp
+  pendidikan sma
 2. Konten wirausaha
+  umum
+  khusus
 3. Konten wisata
